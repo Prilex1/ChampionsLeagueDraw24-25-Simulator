@@ -33,7 +33,7 @@ This project is a desktop application in Python that allows users to view the ma
     Navigate to the project directory and run the main script:
 
     ```bash
-    python football_match_visualizer.py
+    champions.py
     ```
 
 2. **Interact with the Interface**:
@@ -43,7 +43,7 @@ This project is a desktop application in Python that allows users to view the ma
 
 ## Code Structure
 
-- **`football_match_visualizer.py`**: The main file containing the code for match generation, draw logic, and graphical interface.
+- **`champions.py`**: The main file containing the code for match generation, draw logic, and graphical interface.
 
 ## Contributing
 
