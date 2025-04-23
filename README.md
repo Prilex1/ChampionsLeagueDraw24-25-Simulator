@@ -59,6 +59,3 @@ If you wish to contribute to the project, follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For more information, please contact [your_email@example.com](mailto:your_email@example.com).
